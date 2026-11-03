@@ -2,4 +2,5 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-data/processed/*.csv
+data/processed/*.csv
+!data/processed/label_mapping.csv
